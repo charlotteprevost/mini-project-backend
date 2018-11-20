@@ -42,7 +42,7 @@ class Search_Result(View):
 		url = "http://api-public.guidebox.com/v2/search"
 
 		payload = (
-			('api_key', '7eec0384545005656d8702d02413111dbd7d6f1b'),
+			('api_key', 'INSERT_API_KEY'),
 			('type', 'movie'),
 			('field', 'title'),
 			('query', searchTerm)

@@ -51,7 +51,7 @@ INSTALLED_APPS = [
     # 'rest_framework_word_filter',
     # 'rest_fra mework',
     'accounts_api',
-    'third_party_api',
+    # 'third_party_api',
     'movies_api',
     'corsheaders',
 ]
